@@ -1,0 +1,9 @@
+== Welcome to geoscript.rb
+
+This project is currently just a skeleton. The idea is to build a complete GeoScript API in JRuby, much like the existing GeoScript API's in JavaScript, Python and Scala.
+
+For actual working code, refer to the existing language bindings:
+* {GeoScript JavaScript}[http://geoscript.org/js]
+* {GeoScript Python}[http://geoscript.org/py]
+* {GeoScript Groovy}[http://geoscript.org/groovy]
+* {GeoScript Scala}[http://geoscript.org/scala]
